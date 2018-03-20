@@ -1,0 +1,31 @@
+.top{
+  font-family: helvetica;
+  color: pink;
+  text-align: center;
+}
+
+.panel-title{
+  color: pink;
+}
+
+.panel-body{
+  color: pink;
+}
+
+body{
+  background-color: white;
+
+}
+
+.container{
+  padding: 30px;
+}
+
+.panel-body{
+  background-color: #009999;
+}
+
+.panel-default>.panel-heading{
+  background-image: linear-gradient(to bottom,#008080 0,#008080 100%);
+
+}
