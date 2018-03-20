@@ -1,31 +1,31 @@
 .top{
-  font-family: helvetica;
-  color: pink;
-  text-align: center;
+  font-family: helvetica;/* changes the title's font */
+  color: pink;/* changes the title's color to pink */
+  text-align: center; /* centers the title */
 }
 
 .panel-title{
-  color: pink;
+  color: pink; /* changes the panel title's color to pink */
 }
 
 .panel-body{
-  color: pink;
+  color: pink; /* changes the panel text's color to pink */
 }
 
 body{
-  background-color: white;
+  background-color: white; /* changes the page background to white */
 
 }
 
 .container{
-  padding: 30px;
+  padding: 30px; /* adds space between jumbotron and panels*/
 }
 
 .panel-body{
-  background-color: #009999;
+  background-color: #009999; /* changes the panel's background color to teal */
 }
 
 .panel-default>.panel-heading{
-  background-image: linear-gradient(to bottom,#008080 0,#008080 100%);
+  background-image: linear-gradient(to bottom,#008080 0,#008080 100%);/* changes the top of the panel's background color to darker teal */
 
 }
